@@ -77,7 +77,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21572170bf3eef94dba3f7ca0f06525a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 3
   pointValue: 6
   DestroyedEffect: {fileID: 0}
   HitPlayer: {fileID: 2784727018044702794}
